@@ -1,0 +1,5 @@
+out/
+*.apk
+*.jks
+*.idsig
+assets/bg.jpg
